@@ -106,3 +106,4 @@ echo please press ENTER.
 echo.
 
 pause >nul
+exit
