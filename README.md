@@ -48,7 +48,6 @@ Run it, sit back, and watch your folders **transform into an organized system** 
 
 ## 👤 Creator
 **Rezwan Hossain Prince**  
-[LinkedIn]([https://www.linkedin.com/in/rzprince](https://www.linkedin.com/in/rezwan-hossain-prince-9b7304214/))
 
 ---
 
